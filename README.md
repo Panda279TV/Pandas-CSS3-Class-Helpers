@@ -30,7 +30,7 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/p
 
 #### Simply add the abbreviated classes
 
-| Abbreviations | Classes |
+| Abbreviated Classes | Css3 Style |
 | :------ | :------ |
 | vW100 | width: 100vw; |
 | w100 | width: 100%; |
