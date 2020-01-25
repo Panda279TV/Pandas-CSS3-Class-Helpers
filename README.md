@@ -1,1 +1,93 @@
 # Pandas-CSS3-Class-Helpers
+#### There are many good class helpers. But these are so short or confusing that I wanted to make my own.
+
+##### To use this class helper, you just have to include the following link in the Head Tag. Link the Author!
+
+Example:
+
+    <!-- Copyright (c) 2019 Benedikt Wolf https://github.com/Panda279TV -->
+    <link rel="stylesheet" href="pandas-class-helper.css">
+    <link rel="stylesheet" href="YOUR.CSS.FILE">
+
+---
+
+## Demo
+![](pandas-class-helper-demo.gif)
+
+The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/pandas-class-helpers-demo.gif) shows the [HTML FILE](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-css3-class-helpers-test.html). You can download this and the CSS and have a look at it again.
+
+---
+
+## Statistics
+- Minimalistic and Small
+- Simple, Easy and Fast to learn
+- No CSS `!Important`
+- Only about 4.000 kilobytes (pandas-hamburgers.min.css)
+
+---
+
+## Introduction
+
+#### Simply add the abbreviated classes
+
+| Abbreviations | Classes |
+| :------ | :------ |
+| vW100 | width: 100vw |
+| w100 | width: 100% |
+| w90 | width: 90% |
+| w80 | width: 80% |
+| w70 | width: 70% |
+| w60 | width: 60% |
+| w50 | width: 50% |
+| w40 | width: 40% |
+| w30 | width: 30% |
+| w20 | width: 20% |
+| w10 | width: 10% |
+| vH100 | height: 100vh |
+| h100 | height: 100% |
+| hAuto | height: auto |
+| mCenter | margin: 0 auto |
+| m20 | margin: 20px |
+| m40 | margin: 40px |
+| m60 | margin: 60px |
+| p20 | padding: 20px |
+| p40 | padding: 40px |
+| p60 | padding: 60px |
+| mTB20 | margin: 20px 0px |
+| mTB40 | margin: 40px 0px |
+| mTB60 | margin: 60px 0px |
+| mTB20 | margin: 0px 20px |
+| mTB40 | margin: 0px 40px |
+| mTB60 | margin: 0px 60px |
+| hyphensAuto | hyphens: auto; |
+| colBlack | color: black |
+| colWhite | color: white |
+| colGrey | color: grey |
+| colRed | color: red |
+| colBlue | color: blue |
+| colGreen | color: green |
+| colYellow | color: yellow |
+| colPurple | color: purple |
+| colOrange | color: orange |
+| backBlack | background-color: black |
+| backWhite | background-color: white |
+| backGrey | background-color: grey |
+| backRed | background-color: red |
+| backBlue | background-color: blue |
+| backGreen | background-color: green |
+| backYellow | background-color: yellow |
+| backPurple | background-color: purple |
+| backOrange | background-color: orange |
+| textC | text-align: center |
+| textL | text-align: left |
+| textR | text-align: right |
+| textJ | text-align: justify |
+| lineH15 | line-height: 15px |
+| lineH30 | line-height: 30px |
+| lineH45 | line-height: 45px |
+| lineH60 | line-height: 60px |
+| lineH75 | line-height: 75px |
+|  |  |
+|  |  |
+
+---
