@@ -12,7 +12,7 @@ Example:
 ---
 
 ## Demo
-![](https://github.com/Panda279TV/Pandas-Class-Helpers/blob/master/pandas-class-helpers.png)
+![](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-class-helpers.png)
 
 The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-class-helpers.png) shows the [HTML FILE CODE](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-class-helpers-test.html). You can download this.
 
