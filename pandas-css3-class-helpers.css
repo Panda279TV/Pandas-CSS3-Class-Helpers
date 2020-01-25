@@ -41,7 +41,6 @@
 .hAuto{
 	height: auto;
 }
-/*------------------------------*/
 .mCenter{
 	margin: 0 auto;
 }
@@ -81,7 +80,6 @@
 .mTB60{
 	margin: 0px 60px;
 }
-/*------------------------------*/
 .hyphensAuto{
 	hyphens: auto;
 	-moz-hyphens: auto;
@@ -89,7 +87,6 @@
    	-webkit-hyphens: auto;
    	-ms-hyphens: auto;
 }
-/*------------------------------*/
 .colBlack{
 	color: black;
 }
@@ -144,7 +141,6 @@
 .backOrange{
 	background-color: orange;
 }
-/*------------------------------*/
 .textC{
 	text-align: center;
 }
@@ -172,7 +168,6 @@
 .lineH75{
 	line-height: 75px;
 }
-/*------------------------------*/
 .verticalAlignMiddle{
 	vertical-align: middle;
 }
@@ -182,7 +177,6 @@
 .verticalAlignBottom{
 	vertical-align: bottom;
 }
-/*------------------------------*/
 .textDecoNone{
 	text-decoration: none;
 	-webkit-text-decoration: none;
@@ -191,7 +185,6 @@
 	text-decoration: underline;
 	-webkit-text-decoration: underline;
 }
-/*------------------------------*/
 .listSNone{
 	list-style: none;
 }
@@ -210,7 +203,6 @@
 .listSUpperAlpha{
 	list-style: upper-alpha;
 }
-/*------------------------------*/
 .borderSBlack{
 	border: 1px solid black;
 }
@@ -241,7 +233,6 @@
 .borderN{
 	border: none;
 }
-/*------------------------------*/
 .displayN{
 	display: none
 }
@@ -275,7 +266,6 @@
 .opac100{
 	opacity: 1;
 }
-/*------------------------------*/
 .flexWrapWrap{
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap;
@@ -311,7 +301,6 @@
 .justifyContentSpaceEvenly{
 	justify-content: space-evenly;
 }
-/*------------------------------*/
 .positionR{
 	position: relative;
 }
@@ -425,7 +414,6 @@
 .zInd50{
 	z-index: 50;
 }
-/*------------------------------*/
 .floatL{
 	float: left;
 }
