@@ -162,6 +162,5 @@ The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/panda
 | floatN | float: none; |
 | clearB | clear: both; |
 | clearF | *zoom: 1; |
-| clearF:after | content: ""; display: table; clear: both; |
 
 ---
