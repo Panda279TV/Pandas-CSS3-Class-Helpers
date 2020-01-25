@@ -12,9 +12,9 @@ Example:
 ---
 
 ## Demo
-![](pandas-class-helper-demo.gif)
+![](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/Pandas-CSS3-Class-Helpers.png)
 
-The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Hamburger/blob/master/pandas-class-helpers-demo.gif) shows the [HTML FILE](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-css3-class-helpers-test.html). You can download this and the CSS and have a look at it again.
+The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/Pandas-CSS3-Class-Helpers.png) shows the [HTML FILE](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-css3-class-helpers-test.html). You can download this and the CSS and have a look at it again.
 
 ---
 
