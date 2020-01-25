@@ -14,7 +14,7 @@ Example:
 ## Demo
 ![](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/Pandas-CSS3-Class-Helpers.png)
 
-The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/Pandas-CSS3-Class-Helpers.png) shows the [HTML FILE](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-class-helpers-test.html). You can download this and the CSS and have a look at it again.
+The [DEMO](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/Pandas-CSS3-Class-Helpers.png) shows the [HTML FILE CODE](https://github.com/Panda279TV/Pandas-CSS3-Class-Helpers/blob/master/pandas-class-helpers-test.html). You can download this and the CSS and have a look at it again.
 
 ---
 
