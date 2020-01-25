@@ -6,7 +6,7 @@
 Example:
 
     <!-- Copyright (c) 2019 Benedikt Wolf https://github.com/Panda279TV -->
-    <link rel="stylesheet" href="pandas-class-helper.css">
+    <link rel="stylesheet" href="pandas-class-helpers.css">
     <link rel="stylesheet" href="YOUR.CSS.FILE">
 
 ---
